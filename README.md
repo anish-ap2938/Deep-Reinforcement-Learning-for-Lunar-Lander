@@ -31,6 +31,8 @@ This repository contains the code for a deep reinforcement learning project that
     - Each leg with ground contact provides +10 points.
     - Firing the main engine costs -0.3 points per frame, and the side engines cost -0.03 points per frame.
     - The environment is considered solved when the total reward reaches 200 points.
+    - 
+![image](https://github.com/user-attachments/assets/3b5eca5f-03bb-4d16-be2d-f4d60fdfc679)
 
 ---
 
